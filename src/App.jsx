@@ -1,6 +1,9 @@
 
 
 
-export const App=()=>{
-  return <h1>Bank</h1>
+function App(){
+  return <h1>World</h1>
 }
+
+
+export default App
