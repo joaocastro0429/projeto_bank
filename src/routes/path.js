@@ -1,5 +1,6 @@
-export default{
-    HOME:'/',
-    NOT_FOUND:"*",
-    LOGIN:"/login"
-}
+export const paths = {
+    HOME: '/',
+    LOGIN: '/login',
+    DASHBOARD: '/dashboard',
+    NOT_FOUND: '*',
+  }
